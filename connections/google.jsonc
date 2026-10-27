@@ -1,0 +1,10 @@
+{
+    // Google Gemini through its OpenAI-compatible chat completions endpoint.
+    // Add your Gemini API key locally before using this connection.
+    "apiType": "openai",
+    "baseUrl": "https://generativelanguage.googleapis.com/v1beta/openai",
+    "apiKey": "",
+    "requestTimeoutSec": 30,
+    "model": "gemini-3.1-flash-lite",
+    "requestParameters": {}
+}
